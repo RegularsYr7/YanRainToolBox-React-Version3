@@ -122,7 +122,7 @@ const preparePackageJson = () => {
       main: "background.js",
       author: {
         name: "YanRain",
-        email: "18203173685@163.com",
+        email: "484968718@qq.com",
       },
       license: packageJson.license || "MIT",
       homepage: "https://gitee.com/yanrainonline/yan-rain-tool-box-react-ts-v3",
@@ -454,7 +454,7 @@ const getBuildConfiguration = (): Configuration => {
           ],
           ...(iconPath ? { icon: iconPath } : {}),
           category: "Utility",
-          maintainer: "YanRain <18203173685@163.com>",
+          maintainer: "YanRain <484968718@qq.com>",
           vendor: "YanRain",
         },
       };
@@ -476,7 +476,7 @@ const getBuildConfiguration = (): Configuration => {
           ],
           ...(iconPath ? { icon: iconPath } : {}),
           category: "Utility",
-          maintainer: "YanRain <18203173685@163.com>",
+          maintainer: "YanRain <484968718@qq.com>",
           vendor: "YanRain",
         },
       };

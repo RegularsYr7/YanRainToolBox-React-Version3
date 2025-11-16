@@ -396,7 +396,7 @@ pnpm run dev
 
 ### 💬 获取帮助
 
-- **📧 邮件支持**: [18203173685@163.com](mailto:18203173685@163.com)
+- **📧 邮件支持**: [484968718@qq.com](mailto:484968718@qq.com)
 - **🐛 问题报告**: [GitHub Issues](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/issues)
 - **💡 功能建议**: [GitHub Discussions](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/discussions)
 - **📖 文档问题**: [文档反馈](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/issues/new?template=documentation.md)
@@ -446,7 +446,7 @@ copies or substantial portions of the Software.
 
 ### 🌟 如果这个项目对您有帮助，请给我们一个 Star！ ⭐
 
-**Made with ❤️ by [YanRain](mailto:18203173685@163.com)**
+**Made with ❤️ by [YanRain](mailto:484968718@qq.com)**
 
 _Professional Android Device Management Tool_
 

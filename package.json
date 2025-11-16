@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "YanRainToolBox React/Electron 工具箱，支持安卓刷机和设备管理。",
-  "author": "18203173685@163.com",
+  "author": "484968718@qq.com",
   "main": "background.cjs",
   "type": "module",
   "scripts": {
