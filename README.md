@@ -291,7 +291,7 @@ pnpm run clean:all
 pnpm run dev
 ```
 
-> 💡 **提示**: 如果问题仍然存在，请查看 [Issues](https://github.com/yourusername/YanRainToolBox_React_v3/issues) 或创建新的问题报告。
+> 💡 **提示**: 如果问题仍然存在，请查看 [Issues](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/issues) 或创建新的问题报告。
 
 ## 🎯 快速导航中心
 
@@ -397,9 +397,9 @@ pnpm run dev
 ### 💬 获取帮助
 
 - **📧 邮件支持**: [18203173685@163.com](mailto:18203173685@163.com)
-- **🐛 问题报告**: [GitHub Issues](https://github.com/yourusername/YanRainToolBox_React_v3/issues)
-- **💡 功能建议**: [GitHub Discussions](https://github.com/yourusername/YanRainToolBox_React_v3/discussions)
-- **📖 文档问题**: [文档反馈](https://github.com/yourusername/YanRainToolBox_React_v3/issues/new?template=documentation.md)
+- **🐛 问题报告**: [GitHub Issues](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/issues)
+- **💡 功能建议**: [GitHub Discussions](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/discussions)
+- **📖 文档问题**: [文档反馈](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/issues/new?template=documentation.md)
 
 ### 🤝 贡献指南
 
@@ -450,8 +450,8 @@ copies or substantial portions of the Software.
 
 _Professional Android Device Management Tool_
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/YanRainToolBox_React_v3?style=social)](https://github.com/yourusername/YanRainToolBox_React_v3/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/YanRainToolBox_React_v3?style=social)](https://github.com/yourusername/YanRainToolBox_React_v3/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/YanRainToolBox_React_v3)](https://github.com/yourusername/YanRainToolBox_React_v3/issues)
+[![GitHub stars](https://img.shields.io/github/stars/RegularsYr7/YanRainToolBox-React-Version3?style=social)](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RegularsYr7/YanRainToolBox-React-Version3?style=social)](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/network)
+[![GitHub issues](https://img.shields.io/github/issues/RegularsYr7/YanRainToolBox-React-Version3)](https://github.com/RegularsYr7/YanRainToolBox-React-Version3/issues)
 
 </div>
