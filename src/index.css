@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+/* 定义深色模式 CSS 变量 */
+:root {
+  --dark-bg-primary: #0f172a;
+  --dark-bg-secondary: #1e293b;
+  --dark-bg-tertiary: #334155;
+  --dark-text-primary: #f8fafc;
+  --dark-text-secondary: #cbd5e1;
+  --dark-text-tertiary: #94a3b8;
+  --dark-border: #475569;
+  --dark-border-light: #64748b;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  user-select: none;
+  transition: all 50ms ease-out;
+  scroll-behavior: smooth;
+}
+
+/* 确保深色模式过渡 */
+* {
+  transition: background-color 200ms ease, color 200ms ease,
+    border-color 200ms ease;
+}
+
+/* 测试深色模式样式 */
+.dark body {
+  background-color: #0f172a !important;
+  color: #f8fafc !important;
+}
+
+.dark .bg-white {
+  background-color: #1e293b !important;
+}
+
+.dark .text-gray-900 {
+  color: #f8fafc !important;
+}
+
+.dark .text-gray-600 {
+  color: #cbd5e1 !important;
+}
+
+.dark .border-gray-200 {
+  border-color: #475569 !important;
+}
+
+/* 
+  @title 全局隐藏滚动条
+*/
+* {
+  /* 隐藏 webkit 浏览器的滚动条 */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 和 Edge */
+}
+
+*::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+  width: 0;
+  height: 0;
+}
+
+/* 确保滚动功能仍然可用 */
+html,
+body {
+  overflow: auto;
+}
+
+/* 为特定元素保持滚动条可见性（如果需要） */
+.show-scrollbar {
+  scrollbar-width: auto !important;
+  -ms-overflow-style: auto !important;
+}
+
+.show-scrollbar::-webkit-scrollbar {
+  display: block !important;
+  width: 8px !important;
+  height: 8px !important;
+}
+
+/* 自定义滚动条样式 */
+.scrollbar-custom {
+  scrollbar-width: thin !important;
+  scrollbar-color: #cbd5e1 #f1f5f9 !important;
+  -ms-overflow-style: auto !important;
+}
+
+/* WebKit 浏览器滚动条样式 */
+.scrollbar-custom::-webkit-scrollbar {
+  display: block !important;
+  width: 8px !important;
+  height: 8px !important;
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: #f1f5f9 !important;
+  border-radius: 4px !important;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background: #cbd5e1 !important;
+  border-radius: 4px !important;
+  border: 2px solid #f1f5f9 !important;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8 !important;
+}
+
+/* 深色模式滚动条 */
+.dark .scrollbar-custom {
+  scrollbar-color: #475569 #1e293b !important;
+}
+
+.dark .scrollbar-custom::-webkit-scrollbar-track {
+  background: #1e293b !important;
+}
+
+.dark .scrollbar-custom::-webkit-scrollbar-thumb {
+  background: #475569 !important;
+  border-color: #1e293b !important;
+}
+
+.dark .scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background: #64748b !important;
+}
